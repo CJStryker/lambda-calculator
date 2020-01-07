@@ -5,8 +5,10 @@
     "\\src\\components",
     "\\src\\components\\ButtonComponents",
     "\\src\\components\\ButtonComponents\\NumberButtons",
+    "\\src\\components\\ButtonComponents\\OperatorButtons",
+    "\\src\\components\\ButtonComponents\\SpecialButtons",
     "\\src\\components\\DisplayComponents"
   ],
-  "SelectedNode": "\\src\\components\\ButtonComponents\\NumberButtons\\NumberButton.js",
+  "SelectedNode": "\\src\\App.css",
   "PreviewInSolutionExplorer": false
 }
